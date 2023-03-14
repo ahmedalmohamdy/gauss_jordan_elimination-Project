@@ -1,7 +1,7 @@
-Gauss-Jordan Elimination
+#Gauss-Jordan Elimination
 Solve system of equations using Gauss-Jordan elimination method (reduced row echelon form).
 
-Usage
+#Usage
 python main.py
 The program follow these main steps:
 
